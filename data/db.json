@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam dicta consectetur vero, debitis, doloremque eum labore eaque sint, sit officiis exercitationem. Pariatur, non exercitationem? Facilis iusto harum sed sequi illo.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "My Pet Chewy",
+      "body": "Chewy is a big cat",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "My BIg Dog Pochi",
+      "body": "Pochi is big dog",
+      "author": "yoshi",
+      "id": 5
+    },
+    {
+      "title": "SAmple blog",
+      "body": "hello",
+      "author": "mario",
+      "id": 6
+    }
+  ]
+}
