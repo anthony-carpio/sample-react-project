@@ -1,3 +1,10 @@
+#Getting started with this project
+1.npm install
+2. npm start - will run the project in localhost:3000
+3. json-server -watch data/db.json --port 8000 (runs db.json for local db)
+  -- requires json-server
+  -- npm i json-server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
